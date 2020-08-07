@@ -8,7 +8,7 @@ Para utilizar o bot ele precisa de algumas bibliotecas, bem simples. Principalme
 
 <ul>
  Teste 
- <ul>
+<ul>
 
 # Criptografia-APS
 
