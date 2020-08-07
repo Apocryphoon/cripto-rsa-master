@@ -1,4 +1,4 @@
-![GitHub-brave-hed-796x418_hu43d8a19345aa11ba5af58cbae6745920_12045_200x0_resize_q75_box](https://user-images.githubusercontent.com/32386767/89682716-9650e280-d8cd-11ea-8669-5bef1fc5c26b.jpg)
+![GitHub-brave-hed-300x400_hu43d8a19345aa11ba5af58cbae6745920_12045_200x0_resize_q75_box](https://user-images.githubusercontent.com/32386767/89682716-9650e280-d8cd-11ea-8669-5bef1fc5c26b.jpg)
 
 # Obersavação
 
