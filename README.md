@@ -1,4 +1,6 @@
-![GitHub-brave-hed-200x200_hu43d8a19345aa11ba5af58cbae6745920_12045_200x0_resize_q75_box](https://user-images.githubusercontent.com/32386767/89682716-9650e280-d8cd-11ea-8669-5bef1fc5c26b.jpg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/32386767/89682716-9650e280-d8cd-11ea-8669-5bef1fc5c26b.jpg" alt="Gartic"/>
+</p>
 
 # Obersavação
 
