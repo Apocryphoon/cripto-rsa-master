@@ -4,15 +4,13 @@ Antes de começarmos quero deixar claro que partes dos meus códigos eu já não
 
 # Requisitos:
 
-Para utilizar o bot ele precisa de algumas bibliotecas, bem simples. Principalmente para as telas de loading e a criação dos numeros primos.
+Para utilizar o bot ele precisa de uma biblioteca, bem simples. Principalmente para a criação dos numeros primos.
 
-<ul>
- Teste 
-<ul>
+* ```import random```
 
 # Criptografia-APS
 
-Projeto do primeiro semestre da faculdade aonde, tive que desenvolver um sistema de criptografa e descriptografa de mensagens usando a lingaugem "Python". Sendo levado em consideração o nível de segurança e uso. Devido a esses requisitos escolhi por usar o sistema de criptografia conhecido como RSA.
+Projeto do primeiro semestre da faculdade aonde, tive que desenvolver um sistema de criptografa e descriptografa de mensagens usando a lingaugem **Python**. Sendo levado em consideração o nível de segurança e uso. Devido a esses requisitos escolhi por usar o sistema de criptografia conhecido como RSA.
 
 # RSA
 
