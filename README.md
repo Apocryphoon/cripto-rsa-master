@@ -17,3 +17,10 @@ Projeto do primeiro semestre da faculdade aonde, tive que desenvolver um sistema
 # RSA
 
 RSA (Rivest-Shamir-Adleman) é um dos primeiros sistemas de criptografia de chave pública e é amplamente utilizado para transmissão segura de dados. Neste sistema de criptografia, a chave de encriptação é pública e é diferente da chave de decriptação que é secreta (privada). No RSA, esta assimetria é baseada na dificuldade prática da fatorização do produto de dois números primos grandes, o famoso "problema de fatoração" que dificulta o processo de "Brute Force" já que os numeros são gigantescos.
+
+# Créditos:
+- Apocryphoon
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/32386767/89684916-b7b3cd80-d8d1-11ea-934a-0078ec1f544c.png" alt="Gartic" height="200" width="200"/>
+</p>
