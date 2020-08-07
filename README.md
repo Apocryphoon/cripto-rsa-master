@@ -12,7 +12,7 @@ Para utilizar o bot ele precisa de uma biblioteca, bem simples. Principalmente p
 
 # Criptografia-APS
 
-Projeto do primeiro semestre da faculdade aonde, tive que desenvolver um sistema de criptografa e descriptografa de mensagens usando a lingaugem **Python**. Sendo levado em consideração o nível de segurança e uso. Devido a esses requisitos escolhi por usar o sistema de criptografia conhecido como RSA.
+Projeto do primeiro semestre da faculdade aonde, tive que desenvolver um sistema que criptografa e descriptografa de mensagens usando a linguagem **Python**. Sendo levado em consideração o nível de segurança e uso. Devido a esses requisitos escolhi por usar o sistema de criptografia conhecido como RSA.
 
 # RSA
 
